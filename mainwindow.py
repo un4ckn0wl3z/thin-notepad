@@ -8,7 +8,7 @@ class MainWindow(QMainWindow, Ui_MainWindow):
         super().__init__()
         self.setupUi(self)
         self.app = app
-        self.setWindowTitle("Thin Notepad v0.0.2")
+        self.setWindowTitle("Thin Notepad v0.0.3")
 
         appIcon = QIcon(":/images/book-open-list.png")
         self.setWindowIcon(appIcon)

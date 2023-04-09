@@ -6,6 +6,7 @@ from mainwindow import MainWindow
 
 app = QApplication(sys.argv)
 # qdarktheme.setup_theme()
+app.setStyle("Fusion")
 
 w = MainWindow(app)
 w.show()
