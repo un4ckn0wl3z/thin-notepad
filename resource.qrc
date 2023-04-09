@@ -1,5 +1,7 @@
 <RCC>
   <qresource>
+    <file>images/disk-return-black.png</file>
+    <file>images/pencil--plus.png</file>
     <file>images/arrow-curve.png</file>
     <file>images/arrow-curve-180.png</file>
     <file>images/arrow-transition.png</file>
